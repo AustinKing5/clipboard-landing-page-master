@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/AustinKing5/clipboard-landing-page-master)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution URL](https://github.com/AustinKing5/clipboard-landing-page-master)
+- Live Site URL: [live site URL](https://austinking5.github.io/clipboard-landing-page-master/)
 
 ## My process
 
